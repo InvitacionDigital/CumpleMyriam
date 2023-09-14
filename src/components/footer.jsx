@@ -8,7 +8,7 @@ const Footer = () => {
                 <p className='font-dancing text-2xl'>Los espero para compartir este día tan especial</p>
             </div>
                 <div className='text-center bg-[#0d4659] py-6 px-6'>
-                <a href="https://w.app/k5gr4x" className='font-[roboto] text-white text-xs'>® Invitaciones digitales Web - click aquí si quieres tu propia invitación personalizada</a>
+                <a href="https://wa.me/541130954373/?text=Hola,+quiero+consultar+po+una+invitacion+digital+personalizada" className='font-[roboto] text-white text-xs'>® Invitaciones digitales Web - click aquí si quieres tu propia invitación personalizada</a>
             </div>
         </>
     )
