@@ -6,7 +6,7 @@ import Footer from '../components/footer'
 import dorado from '../images/doradosinletras.jpeg'
 import dorado_info from "../images/doradoinfo.jpg"
 import dorado_titulo from "../images/doradotitulo.jpg"
-import dorado_asistencia from "../images/doradoasistencia.jpeg"
+import dorado_asistencia from "../images/doradoasistencia.jpg"
 import {CiLocationOn}  from "react-icons/ci";
 
 function Home() {
